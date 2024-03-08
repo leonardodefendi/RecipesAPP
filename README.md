@@ -17,17 +17,17 @@ Neste projeto desenvolvido em grupo, realizamos frontend de uma aplicação util
 
 ## Aplicação
 
-- **🪛 Instalação**
+- <sumary><strong>🪛 Instalação<strong><sumary>
     1. Clone o repositório
     - Utilize o comando: `git clone [git@github.com](mailto:git@github.com):leonardodefendi/RecipesAPP.git`
     - Faça uma nova Branch a partir da `main` :
         - `git checkout -b nome-da-sua-branch`
     
-    1. Instale as dependências do projeto
+    2. Instale as dependências do projeto
     - Instale as dependências com `npm install`
     - Inicialize o projeto com `npm run start`
     
-    1. Acesse o projeto
+    3. Acesse o projeto
     - O projeto estará disponível na porta 3001 `localhost:3001`
 - **📋 Requisitos**
     
