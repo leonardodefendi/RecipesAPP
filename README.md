@@ -16,7 +16,7 @@ Neste projeto desenvolvido em grupo, realizamos frontend de uma aplicação util
 ---
 
 ## Aplicação
-<details>
+
 - <sumary><strong>🪛 Instalação<strong><sumary>
     1. Clone o repositório
     - Utilize o comando: `git clone [git@github.com](mailto:git@github.com):leonardodefendi/RecipesAPP.git`
@@ -29,8 +29,6 @@ Neste projeto desenvolvido em grupo, realizamos frontend de uma aplicação util
     
     3. Acesse o projeto
     - O projeto estará disponível na porta 3001 `localhost:3001`
-<details>
-
 - **📋 Requisitos**
     
     **1 – Desenvolva os testes unitários de maneira que a cobertura seja de, no mínimo, 90%**
